@@ -1,5 +1,3 @@
-# p3_Readme
-
 # UserFlow 작성
 Client가 웹 사이트 방문 시 흐름도 작성
 ![설계도](https://github.com/GroupStudy502/Project_WebPage/assets/127836690/0fdfd1f9-4303-4f70-93a3-33451b731017)
